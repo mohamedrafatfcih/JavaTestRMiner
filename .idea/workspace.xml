@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df251868-d576-4136-81be-1ac85c43d31f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParentClass.java" afterDir="false" />
+    <list default="true" id="df251868-d576-4136-81be-1ac85c43d31f" name="Changes" comment="Add Caw class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +47,28 @@
       <option name="presentableId" value="Default" />
       <updated>1723842905350</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add animal class">
+      <option name="closed" value="true" />
+      <created>1723843748191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723843748191</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Caw class">
+      <option name="closed" value="true" />
+      <created>1723844032872</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723844032873</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add animal class" />
+    <MESSAGE value="Add Caw class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Caw class" />
   </component>
 </project>
