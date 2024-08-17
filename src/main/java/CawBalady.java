@@ -10,10 +10,14 @@ public class CawBalady extends Animal implements IAnimal {
     }
 
     public void eatFood(String foodName, int quantity) {
-        if (foodName == "Barsim" && quantity > 1) {
+        if (isFoodQuantitySufficient(foodName, quantity)) {
             isHungry = false;
         } else {
             System.out.println("AAAAAAAH");
         }
+    }
+
+    private static boolean isFoodQuantitySufficient(String foodName, int quantity) {
+        return foodName == "Barsim" && quantity > 1;
     }
 }
