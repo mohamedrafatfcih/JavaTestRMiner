@@ -1,4 +1,4 @@
-public class Caw extends Animal implements IAnimal {
+public class CawBalady extends Animal implements IAnimal {
 
     @Override
     public void eat() {
