@@ -9,7 +9,7 @@ public class Caw extends Animal implements IAnimal {
         System.out.println("I'm walking");
     }
 
-    public void eat(String foodName, int quantity) {
+    public void eatFood(String foodName, int quantity) {
         if (foodName == "Barsim" && quantity > 1) {
             isHungry = false;
         } else {
