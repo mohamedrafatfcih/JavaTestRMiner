@@ -12,4 +12,8 @@ public class Animal {
             this.isHungry = true;
         }
     }
+
+    static boolean isFoodQuantitySufficient(String foodName, int quantity) {
+        return foodName == "Barsim" && quantity > 1;
+    }
 }

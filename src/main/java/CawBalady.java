@@ -16,8 +16,4 @@ public class CawBalady extends Animal implements IAnimal {
             System.out.println("AAAAAAAH");
         }
     }
-
-    private static boolean isFoodQuantitySufficient(String foodName, int quantity) {
-        return foodName == "Barsim" && quantity > 1;
-    }
 }
