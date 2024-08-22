@@ -1,10 +1,5 @@
 public class CawBalady extends Animal implements IAnimal {
 
-    @Override
-    public void eat() {
-        super.eat();
-    }
-
     public void walk() {
         System.out.println("I'm walking");
     }
